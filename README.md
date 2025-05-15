@@ -4,7 +4,8 @@ Este é o CSS_DoZero, meu repositório de estudos totalmente voltado à estiliza
 
 Mais do que aprender a deixar páginas bonitas, estou desenvolvendo um olhar técnico para design funcional, responsivo e moderno, com atenção aos detalhes que fazem a diferença na experiência do usuário.
 
-🌈 O que você vai encontrar aqui: 
+# O que você vai encontrar aqui: 
+
 🎯 Conceitos básicos: seletores, cores, fontes, box model
 
 🔄 Display, position, margin, padding — tudo com exemplos práticos
@@ -19,5 +20,20 @@ Mais do que aprender a deixar páginas bonitas, estou desenvolvendo um olhar té
 
 📝 Comentários e explicações com analogias fáceis de entender
 
-📌 Objetivo: 
+# 📌 Objetivo
+
 Aprender CSS de forma prática e sólida, dominando os principais recursos da linguagem e criando layouts cada vez mais profissionais. Este repositório é minha base de treino, mas também um reflexo de como penso, evoluo e resolvo problemas de design com código.
+
+# 💼 Para recrutadores(as):
+
+Se você está procurando alguém que:
+
+Aprende com profundidade e aplica com clareza
+
+Se preocupa com código limpo e bem estruturado
+
+Entende que design é mais do que estética: é comunicação
+
+Está se preparando para ser um front-end completo
+
+...então este repositório é mais do que um exercício: é um cartão de visitas técnico. Aqui está a base de alguém que está se tornando referência em CSS na prática.
